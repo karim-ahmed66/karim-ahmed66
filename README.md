@@ -40,6 +40,12 @@ Working on both sides means I think about software the way operations sees it: i
 - **Custom picture-frames store** — bilingual (EN/AR) store with a custom-order flow, photo uploads, order tracking by code without registration, and an admin dashboard. *(Vue.js, Node.js / Express)*
 - **Corporate landing page (plastics manufacturer)** — responsive site showcasing products and services. *(React, Node.js)*
 
+## Open source
+
+| Project | Description |
+|---|---|
+| [**windows-sysadmin-toolkit**](https://github.com/karim-ahmed66/windows-sysadmin-toolkit) | PowerShell scripts for multi-site Windows environments: bulk AD onboarding, stale-account audits, group-membership reviews, server health reports, verified SQL Server backups and parallel site connectivity checks. Linted in CI. |
+
 ## Tech stack
 
 **Backend & data**
@@ -68,4 +74,4 @@ Also: MS SQL Server · IIS · Active Directory & Group Policy · DNS/DHCP · Cis
 
 ---
 
-<p align="center"><i>The public repositories below are mostly from my university and training days — kept here as a record of where I started.</i></p>
+<p align="center"><i>Older repositories below are from my university and training days — kept as a record of where I started.</i></p>
