@@ -4,6 +4,7 @@
   Node.js · Vue.js · PostgreSQL — Windows Server · Active Directory · Networking
 </p>
 <p align="center">
+  <a href="https://karim-ahmed66.github.io"><img src="https://img.shields.io/badge/Portfolio-karim--ahmed66.github.io-1f6feb?style=flat" alt="Portfolio"/></a>
   <a href="https://www.linkedin.com/in/karim-ahmed-hamdy"><img src="https://img.shields.io/badge/LinkedIn-karim--ahmed--hamdy-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:karim.dev00@gmail.com"><img src="https://img.shields.io/badge/Email-karim.dev00%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"/></a>
   <img src="https://img.shields.io/badge/Location-Cairo%2C%20Egypt-555?style=flat" alt="Cairo, Egypt"/>
