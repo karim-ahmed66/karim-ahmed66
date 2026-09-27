@@ -37,7 +37,7 @@ Working on both sides means I think about software the way operations sees it: i
 ### Freelance & personal projects
 
 - **Sales & Distribution Platform (cosmetics)** — e-commerce platform with an admin dashboard and a React Native app for sales reps: orders, inventory, purchasing, catalog, reporting and role-based permissions. *(Vue.js, Node.js, React Native)*
-- **Custom picture-frames store** — bilingual (EN/AR) store with a custom-order flow, photo uploads, order tracking by code without registration, and an admin dashboard. *(Vue.js, Node.js / Express)*
+- **[Lolo's Frames](https://github.com/karim-ahmed66/lolos-frames-showcase)** — custom picture-frames store *(showcase with screenshots)*: bilingual (EN/AR) store with a custom-order flow, photo uploads, order tracking by code without registration, and an admin dashboard. *(Vue.js, Node.js / Express)*
 - **Corporate landing page (plastics manufacturer)** — responsive site showcasing products and services. *(React, Node.js)*
 
 ## Open source
